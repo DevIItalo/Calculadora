@@ -1,2 +1,2 @@
 # Calculadora
- Caculadora com JavaScript
+ Minha calculadora usado JavaScript 
